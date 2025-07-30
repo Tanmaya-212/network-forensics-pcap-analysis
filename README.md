@@ -21,7 +21,7 @@ This project demonstrates a forensic analysis of a `.pcap` file using tools like
 - Cybersecurity investigation
 
 ## 📄 Report
-You can find the full report in [network-forensic-pcap-analysis]
+You can find the full report in [network-forensic-pcap-analysis](https://github.com/Tanmaya-212/network-forensics-pcap-analysis/blob/main)
 
 ---
 
